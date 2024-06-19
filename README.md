@@ -21,13 +21,14 @@ Harga Barang, Jumlah Barang, Expired Barang mengunakan Dynamic Query dan Paging 
 ##Buat Tabel Gudang dan Barang
 
 
- ###Tabel Gudang
+ *Tabel Gudang*
 CREATE TABLE Gudang (
     KodeGudang INT PRIMARY KEY,
     NamaGudang NVARCHAR(100)
 );
 
-###Tabel Barang
+*Tabel Barang*
+
 CREATE TABLE Barang (
     KodeBarang INT PRIMARY KEY,
     NamaBarang NVARCHAR(100),
