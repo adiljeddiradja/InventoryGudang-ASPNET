@@ -1,6 +1,6 @@
-#1. Jika di dalam suatu Gudang Super Market, pegawai A ingin melakukan pengecekan barang yang 
+*1. Jika di dalam suatu Gudang Super Market, pegawai A ingin melakukan pengecekan barang yang 
 sudah kadaluarsa, berikan contoh Solusi cara menanggulangi dan mengantisipasi dalam pengecekan 
-barang yang kadaluarsa
+barang yang kadaluarsa*
 
 Jawab :
 1. Pastikan setiap kali barang baru masuk ke gudang, diberi label dengan tanggal kadaluarsa yang jelas.
@@ -16,8 +16,8 @@ Jawab :
 
 Jawab :
 
-#2. - Buat 2 Table (Table Gudang & Table Barang), berikan foreignKey dan Index  - Buat Store Prosedure tampilkan list data Kode Gudang, Nama Gudang, Kode Barang, Nama Barang, 
-Harga Barang, Jumlah Barang, Expired Barang mengunakan Dynamic Query dan Paging - Buat Trigger ketika Input Barang di salah satu gudang muncul kan barang yang kadaluarsa
+*2. - Buat 2 Table (Table Gudang & Table Barang), berikan foreignKey dan Index  - Buat Store Prosedure tampilkan list data Kode Gudang, Nama Gudang, Kode Barang, Nama Barang, 
+Harga Barang, Jumlah Barang, Expired Barang mengunakan Dynamic Query dan Paging - Buat Trigger ketika Input Barang di salah satu gudang muncul kan barang yang kadaluarsa*
 ##Buat Tabel Gudang dan Barang
 
 
@@ -97,4 +97,4 @@ BEGIN
     WHERE 
         i.ExpiredBarang < @CurrentDate
 END
-3.Ada di project
+*3.Ada di project*
