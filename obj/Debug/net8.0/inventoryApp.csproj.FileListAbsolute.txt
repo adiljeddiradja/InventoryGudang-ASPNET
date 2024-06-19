@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\inventoryApp\inventoryApp\obj\Debug\net8.0\inventoryApp.csproj.AssemblyReference.cache
